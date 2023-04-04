@@ -15,6 +15,7 @@ It solves two problems: first, it solves my issue of having ZERO experience in c
 
 - What did you learn?
 Too much to put into this one document! Learned the basics of JavaScript, CSS, Git and HTML. I still have a lot to learn, but this has been a great start so far.
+I also learned how to do push and pull requests!
 
 - [Installation](#installation) 
 N/A
